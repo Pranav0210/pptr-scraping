@@ -1,0 +1,16 @@
+{
+  "name": "pptr-hdls",
+  "version": "1.0.0",
+  "description": "Automated form filling on linked-in using puppeteer.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav Patel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "puppeteer": "^16.2.0"
+  }
+}
